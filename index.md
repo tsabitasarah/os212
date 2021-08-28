@@ -1,6 +1,6 @@
 # os212
 ## Hello, I'm Tsabita!
-[HOME](.) | [LOG](TXT/mylog.txt) <br>
+[HOME](https://tsabitasarah.github.io/os212/) | [LOG](TXT/mylog.txt) <br>
 Name: Tsabita Sarah Indah Anggayasti <br>
 NPM: 2006485112 <br>
 Class: OS-B <br>
