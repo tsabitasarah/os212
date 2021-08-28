@@ -4,4 +4,4 @@
 Name: Tsabita Sarah Indah Anggayasti <br>
 NPM: 2006485112 <br>
 Class: OS-B <br>
-GitHub Account: [tsabitasarah](https://github.com/tsabitasarah) <br>
+GitHub Account: [tsabitasarah](https://github.com/tsabitasarah)
