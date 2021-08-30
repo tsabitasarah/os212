@@ -1,6 +1,4 @@
-# os212
-## Hello, I'm Tsabita!
+# [os212](https://tsabitasarah.github.io/os212/)
+## Hello!
 [HOME](https://tsabitasarah.github.io/os212/) | [LOG](TXT/mylog.txt) <br>
-Name: Tsabita Sarah Indah Anggayasti <br>
-Class: OS-B <br>
-GitHub Account: [tsabitasarah](https://github.com/tsabitasarah)
+This is my Repository for Operating Systems 2021-2 (OS212) and I'm Tsabita Sarah Indah Anggayasti.
