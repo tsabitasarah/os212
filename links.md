@@ -15,3 +15,9 @@ As we use virtual machine in Operating Systems (OS212) course, the link is usefu
 
 4. [40 Basic Linux Commands used Frequently](https://linoxide.com/essential-linux-basic-commands/) <br>
 As a beginner, this link helps me a lot to learn and get familiar with the basic commands for Linux.
+
+5. [C Programming | In One Video](https://youtu.be/3lQEunpmtRA) <br>
+As we going to use C language for Operating Systems course, this video —  which is considerably shorter than others — helps me in learning about the language from the basic.
+
+6. [What is Computer Security?](https://www.edureka.co/blog/what-is-computer-security/#SecurityPractices) <br>
+On the second week, we learn about computer security. This brief article tells me quite a bit about computer security.
