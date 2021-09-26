@@ -21,3 +21,6 @@ As we going to use C language for Operating Systems course, this video —  whic
 
 6. [What is Computer Security?](https://www.edureka.co/blog/what-is-computer-security/#SecurityPractices) <br>
 On the second week, we learn about computer security. This brief article tells me quite a bit about computer security.
+
+7. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) <br>
+On the third week, we learn about file system interface, file system implementation, and file system internals. This link describes about the function, directory structure, and mounting of file systems.
