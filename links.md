@@ -29,8 +29,8 @@ On the second week, we learn about computer security. This brief article tells m
 On the third week, we learn about file system interface, file system implementation, and file system internals. This link describes about the function, directory structure, and mounting of file systems.
 
 ## WEEK 04
-1.[Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) <br>
+1. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) <br>
 THis link tells me a thorough information about memory management in operating system, including address space and memory allocation.
 
-2.[How to manage memory with malloc, calloc, realloc, and free in C](https://youtu.be/lQP4X3odvHE) <br>
+2. [How to manage memory with malloc, calloc, realloc, and free in C](https://youtu.be/lQP4X3odvHE) <br>
 This link explains about basic memory management in C using common function which is one of the topics we need to learn about main memory.
