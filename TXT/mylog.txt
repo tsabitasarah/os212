@@ -21,3 +21,7 @@ ZCZC W03 15 L01 SCELE related
 ZCZC W04 120 L02 Zoom Meetings related
 ZCZC W04 30 L06 References/Books/Documents/GSGS related
 ZCZC W04 60 L09 Assignment in General
+ZCZC W05 120 L02 Zoom Meetings related
+ZCZC W05 10 L01 SCELE related
+ZCZC W05 60 L06 References/Books/Documents/GSGS related
+ZCZC W05 120 L09 Assignment in General
