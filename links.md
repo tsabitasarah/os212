@@ -38,3 +38,10 @@ This link explains about basic memory management in C using common function whic
 ## WEEK 05
 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
 On the previous week, we learned about main memory. This week we learn about virtual memory. This link gives me thorough explanation about virtual memory and more.
+
+## WEEK 06
+1. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm) <br>
+This week we learn about processes in operating system. This link tells me a brief explanation about process, the components and description for each component, and also the life cycle.
+
+2. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) <br>
+In this week's demo, we try using fork() in C programming language. This link helps me understand more about fork().
