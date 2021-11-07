@@ -77,3 +77,12 @@ ZCZC W06 30 L15 Assignment #5
 ZCZC W06 20 L16 Assignment #6
 ZCZC W06 10 L17 Assignment #7
 ZCZC W06 05 L18 Assignment #8
+ZCZC W07 30 L06 References/Books/Documents/GSGS related
+ZCZC W07 60 L11 Assignment #1
+ZCZC W07 20 L12 Assignment #2
+ZCZC W07 40 L13 Assignment #3
+ZCZC W07 40 L14 Assignment #4
+ZCZC W07 30 L15 Assignment #5
+ZCZC W07 20 L16 Assignment #6
+ZCZC W07 10 L17 Assignment #7
+ZCZC W07 05 L18 Assignment #8
