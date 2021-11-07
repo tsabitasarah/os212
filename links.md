@@ -45,3 +45,9 @@ This week we learn about processes in operating system. This link tells me a bri
 
 2. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) <br>
 In this week's demo, we try using fork() in C programming language. This link helps me understand more about fork().
+
+## WEEK 07
+1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) <br>
+This week I learn about deadlock by reading this, I learn that deadlock is a situation where a set of processes are blocked because each process is waiting for resource acquired by some other process.
+2. [Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction) <br>
+This link explains the introduction about synchronization thouroughly by dividing each section to different pages.
