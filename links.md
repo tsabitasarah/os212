@@ -51,3 +51,14 @@ In this week's demo, we try using fork() in C programming language. This link he
 This week I learn about deadlock by reading this, I learn that deadlock is a situation where a set of processes are blocked because each process is waiting for resource acquired by some other process.
 2. [Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction) <br>
 This link explains the introduction about synchronization thouroughly by dividing each section to different pages.
+
+## WEEK 08
+1. [Multiprocessor Scheduling in Operating System](https://www.includehelp.com/operating-systems/multiprocessor-scheduling-in-operating-system.aspx)
+By reading this article, I learn about the multiprocessor scheduling and its different types in operating system.
+
+2. [Introduction to CPU Scheduling](https://youtu.be/EWkQl0n0w5M)
+This video explains about CPU scheduling in a comprehensive way so that it’s pretty easy to understand.
+
+## WEEK 09
+1. [RAID](https://www.prepressure.com/library/technology/raid)
+This link tells me a thorough explanation about RAID (Redundant Array of Independent Drives) from its definition to each level’s advantages and disadvantages.
